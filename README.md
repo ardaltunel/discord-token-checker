@@ -17,7 +17,7 @@
 
 <h2>How to Use</h2>
 <ol>
-  <li>Download the <code>Discord.Token.Checker.zip</code> file from the <a href="https://github.com/ardaltunel/discord-token-checker/releases">Releases</a> section of this repository.</li>
+  <li>Download the <code>Discord-Token-Checker.zip</code> file from the <a href="https://github.com/ardaltunel/discord-token-checker/releases">Releases</a> section of this repository.</li>
   <li>Double-click on the <code>checker.exe</code> file to run the program.</li>
   <li>Follow the on-screen instructions to input the Discord tokens and check their validity.</li>
   <li>The program will automatically save the working tokens to a file named <code>working.txt</code> in the same directory as the executable.</li>
